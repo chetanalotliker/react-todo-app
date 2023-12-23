@@ -1,3 +1,10 @@
+# React TODO List Application
+
+React TODO List Application - This is the React TODO List application done using React and Typescript (TSX)
+Inspired by: https://typeofnan.dev/your-first-react-typescript-project-todo-app/
+
+See demo: https://chetanalotliker.github.io/react-todo-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
