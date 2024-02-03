@@ -9,11 +9,6 @@ const initialTodos: Todo[] = [
     text: 'Need to add more todos here',
     complete: false,
   },
-  {
-    id:2,
-    text: 'Update Readme.md of the app',
-    complete: true,
-  },
 ];
 
 function App() {
